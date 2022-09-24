@@ -15,6 +15,7 @@
 .header-pt1 {
    display: flex;
    justify-content: space-around;
+   margin: 1rem
 }
 
 .header-pt1 p {
@@ -48,7 +49,6 @@
 }
 
 .header-pt2-2 {
-   width: 100%;
+   width: 100px;
 }
-
 
