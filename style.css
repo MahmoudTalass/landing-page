@@ -41,3 +41,14 @@
 .header-pt2-1 :nth-child(2) {
    color: #e5e7eb;
 }
+
+.header-pt2 {
+   display: flex;
+   justify-content: center;
+}
+
+.header-pt2-2 {
+   width: 100%;
+}
+
+
