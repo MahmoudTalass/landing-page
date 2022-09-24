@@ -17,13 +17,18 @@
    justify-content: space-around;
 }
 
+.header-pt1 p {
+   font-weight: 700;
+}
+
 .nav-list {
    list-style: none;
    display: flex;
    gap: 1rem;
+   font-size: 18px;
 }
 
 .nav-list a {
    text-decoration: none;
-   color: inherit;
+   color: #E5E7EB;
 }
