@@ -7,6 +7,8 @@
 .header {
    display: flex;
    flex-direction: column;
+   background-color: #1f2937;
+   color: #f9faf8;
 }
 
 .header-pt1 {
@@ -21,5 +23,6 @@
 }
 
 .nav-list a {
-    text-decoration: none;
+   text-decoration: none;
+   color: inherit;
 }
