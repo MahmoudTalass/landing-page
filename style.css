@@ -30,5 +30,14 @@
 
 .nav-list a {
    text-decoration: none;
-   color: #E5E7EB;
+   color: #e5e7eb;
+}
+
+.hero-main-text {
+   font-size: 48px;
+   font-weight: 900;
+}
+
+.header-pt2-1 :nth-child(2) {
+   color: #e5e7eb;
 }
