@@ -6,4 +6,11 @@
 
 .header {
     display: flex;
+    flex-direction: column;
 }
+
+.header-pt1 {
+    display: flex;
+    justify-content: space-between;
+}
+
