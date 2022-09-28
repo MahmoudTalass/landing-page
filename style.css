@@ -5,6 +5,8 @@
    font-family: "Roboto", sans-serif;
 }
 
+/* Header styles */
+
 .header {
    display: flex;
    flex-direction: column;
@@ -79,6 +81,16 @@ button {
     color: #fff;
     background-color: #3882F6;
     font-weight: 600;
+}
+
+/* Section 1 styles */
+
+.sec1-header {
+   font-size: 36px;
+   font-weight: 900;
+   color: #1F2937;
+   text-align: center;
+   margin: 2rem 0;
 }
 
 
