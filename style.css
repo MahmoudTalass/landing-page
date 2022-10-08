@@ -101,6 +101,7 @@ button {
    color: gray;
    width: 80%;
    margin: 0 auto;
+   flex-wrap: wrap;
 }
 
 .box-container {
@@ -109,6 +110,7 @@ button {
    width: 150px;
    height: 220px;
    gap: 0.8rem;
+   flex-shrink: 0;
 }
 
 .box {
