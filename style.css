@@ -127,13 +127,13 @@ button {
 .section-2 {
    background-color: #E5E7EB;
    color: #1F2937;
-   margin: 7rem 0;
+   margin: 5.5rem 0;
 }
 
 .quote-container {
    width: 80%;
    margin: 0 auto;
-   padding: 8.5rem 0;
+   padding: 8rem 0;
 }
 
 blockquote {
@@ -147,4 +147,31 @@ figcaption {
    font-weight: bold;
 }
 
+
+/* Section 3 style */
+
+.section-3 {
+   display: flex;
+   background-color:#3882F6;
+   color: white;
+   width: 75%;
+   margin: 5rem auto;
+   height: 100px;
+   align-items: center;
+   border-radius: 5px;
+   justify-content: space-around;
+}
+
+.sec3-txt1 {
+   font-weight: bold;
+}
+
+.sec3-txt2 {
+   color: #bec3ca;
+   font-weight: light;
+}
+
+.signup-btn-2 {
+   border: 2px white solid;
+}
 
