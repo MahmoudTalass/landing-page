@@ -122,4 +122,28 @@ button {
    display: center
 }
 
+/* Section 2 styles */
+
+.section-2 {
+   background-color: #E5E7EB;
+   color: #1F2937;
+}
+
+.quote-container {
+   width: 80%;
+   margin: 0 auto;
+   padding: 8.5rem 0;
+}
+
+blockquote {
+   font-size: 36px;
+   font-weight: light;
+   font-style: italic;
+}
+
+figcaption {
+   text-align: right;
+   font-weight: bold;
+}
+
 
