@@ -175,3 +175,13 @@ figcaption {
    border: 2px white solid;
 }
 
+/* Footer styles */
+
+.footer {
+   color: white;
+   background-color: #1F2937;
+   display: flex;
+   height: 100px;
+   justify-content: center;
+   align-items: center;
+}
